@@ -113,7 +113,10 @@
 	</div>
 	<hr />
 	<footer>
+
 		<p>&copy copyright animesh</p>
+
+
 	 </footer>
 	<hr />
 
