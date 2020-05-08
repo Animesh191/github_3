@@ -113,7 +113,7 @@
 	</div>
 	<hr />
 	<footer>
-		<p> Akash Bhargav 	Copyright &copy; 2020</p>
+		<p>&copy copyright animesh</p>
 	 </footer>
 	<hr />
 
