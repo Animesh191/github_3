@@ -22,10 +22,7 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">github_3</h1>
-      <h2 class="project-tagline">assignment 3</h2>
       
-        <a href="https://github.com/Animesh191/github_3" class="btn">View on GitHub</a>
       
       
     </section>
@@ -121,7 +118,6 @@
 
       <footer class="site-footer">
         
-          <span class="site-footer-owner"><a href="https://github.com/Animesh191/github_3">github_3</a> is maintained by <a href="https://github.com/Animesh191">Animesh191</a>.</span>
         
        
       </footer>
