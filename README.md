@@ -121,8 +121,7 @@
 
       <footer class="site-footer">
         
-          <span class="site-footer-owner"><a href="https://github.com/Animesh191/github_3">github_3</a> is maintained by <a href="https://github.com/Animesh191">Animesh191</a>.</span>
-        
+          
         
       </footer>
     </section>
