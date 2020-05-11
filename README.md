@@ -2,22 +2,7 @@
   <head>
     <meta charset="UTF-8">
 
-<!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>github_3 | assignment 3</title>
-<meta name="generator" content="Jekyll v3.8.5" />
-<meta property="og:title" content="github_3" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="assignment 3" />
-<meta property="og:description" content="assignment 3" />
-<link rel="canonical" href="https://animesh191.github.io/github_3/" />
-<meta property="og:url" content="https://animesh191.github.io/github_3/" />
-<meta property="og:site_name" content="github_3" />
-<script type="application/ld+json">
-{"headline":"github_3","@type":"WebSite","url":"https://animesh191.github.io/github_3/","name":"github_3","description":"assignment 3","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
 
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="/github_3/assets/css/style.css?v=eed764b1dbb972cf1dcfb9c86285a0933a77dee5">
   </head>
   <body>
