@@ -1,14 +1,7 @@
 <html lang="en-US">
   <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="/github_3/assets/css/style.css?v=eed764b1dbb972cf1dcfb9c86285a0933a77dee5">
   </head>
   <body>
-    <section class="page-header">
-      
-      
-      
-    </section>
 
     <section class="main-content">
       <html>
@@ -19,7 +12,6 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/styles.css" />
 	
-	<title>Module 3 Solution</title>
 </head>
 <body>
     <header class="nav-header">
