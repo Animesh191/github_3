@@ -16,6 +16,7 @@
         background-color:green;}
          .beef-tile{
         background-color:blue;}
+    </style>
 </head>
 <body>
     <header>
