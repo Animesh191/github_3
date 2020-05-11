@@ -6,11 +6,7 @@
     <link rel="stylesheet" href="/github_3/assets/css/style.css?v=eed764b1dbb972cf1dcfb9c86285a0933a77dee5">
   </head>
   <body>
-    <section class="page-header">
-      <h1 class="project-name">github_3</h1>
-      <h2 class="project-tagline">assignment 3</h2>
       
-        <a href="https://github.com/Animesh191/github_3" class="btn">View on GitHub</a>
       
       
     </section>
