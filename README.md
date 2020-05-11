@@ -16,7 +16,7 @@
             <div class="container-fluid">
                 <div class="navbar-header">
                     <div class="navbar-brand">
-                        <a href="index.html"><h1>FOOD, LLC</h1></a>
+                        <a href="index.html"><h1><b>FOOD, LLC</b></h1></a>
                     </div>
 
                     <button type="button" class="navbar-toggle collapsed visible-xs" data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
@@ -165,6 +165,9 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
     <!-- <script src="js/script.js"></script> -->
+    <footer>
+    <p>
+    copyright &copy; animesh</p></footer>
 
 </body>
 
