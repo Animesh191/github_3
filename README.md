@@ -1,13 +1,6 @@
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-
-
-<title>github_3 | assignment 3</title>
-
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="/github_3/assets/css/style.css?v=eed764b1dbb972cf1dcfb9c86285a0933a77dee5">
   </head>
   <body>
